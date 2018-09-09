@@ -2,5 +2,5 @@
 
 A simple tool to merge same structured excel sheets into one sheet.
 
-# Compile
+# Build
 run: gradle build:jar
